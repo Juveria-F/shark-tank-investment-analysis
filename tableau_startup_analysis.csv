@@ -1,0 +1,291 @@
+Season Number,Episode Number,Startup Name,Industry,Pitchers Average Age,Pitchers State,Original Ask Amount,Original Offered Equity,Valuation Requested,Received Offer,Accepted Offer,Total Deal Amount,Total Deal Equity,Deal Valuation,Number of sharks in deal
+1,1,BluePineFoods,Food,Middle,Delhi,50.0,5.0,1000.0,1,1.0,75.0,16.0,469.0,3.0
+1,1,BoozScooters,Vehicles/Electrical Vehicles,Young,Gujarat,40.0,15.0,267.0,1,1.0,40.0,50.0,80.0,2.0
+1,1,HeartUpMySleeves,Beauty/Fashion,Young,Delhi,25.0,10.0,250.0,1,1.0,25.0,30.0,83.0,2.0
+1,2,TagzFoods,Food,Middle,Karnataka,70.0,1.0,7000.0,1,1.0,70.0,2.75,2545.0,1.0
+1,2,HeadAndHeart,Education,Middle,Punjab,50.0,5.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+1,2,Agritourism,Agriculture,Middle,Maharashtra,50.0,5.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+1,3,qZenseLabs,Food,Middle,"Delhi,Punjab",100.0,0.25,40000.0,1,0.0,0.0,0.0,0.0,0.0
+1,3,Peeschute,Beauty/Fashion,Young,Maharashtra,75.0,4.0,1875.0,1,1.0,75.0,6.0,1250.0,1.0
+1,3,NOCD,Food,Middle,Karnataka,50.0,2.0,2500.0,1,1.0,20.0,15.0,133.0,1.0
+1,4,CosIQ,Beauty/Fashion,Middle,Delhi,50.0,7.5,667.0,1,1.0,50.0,25.0,200.0,2.0
+1,4,JhaJiAchaar,Food,Old,Bihar,50.0,10.0,500.0,1,1.0,56.6,5.62,1007.0,2.0
+1,4,Bummer,Beauty/Fashion,Young,Gujarat,75.0,4.0,1875.0,1,1.0,75.0,7.5,1000.0,2.0
+1,5,RevampMoto,Vehicles/Electrical Vehicles,Young,Maharashtra,100.0,1.0,10000.0,1,1.0,100.0,1.5,6667.0,2.0
+1,5,HungryHead,Food,Middle,Maharashtra,50.0,5.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+1,5,ShrawaniEngineers,Beauty/Fashion,Middle,Maharashtra,20.0,10.0,200.0,0,0.0,0.0,0.0,0.0,0.0
+1,6,SkippiIcePops,Food,Middle,Telangana,45.0,5.0,900.0,1,1.0,100.0,15.0,667.0,5.0
+1,6,Menstrupedia,Education,Middle,Gujarat,50.0,10.0,500.0,1,1.0,50.0,20.0,250.0,1.0
+1,6,Hecoll,Beauty/Fashion,Middle,Telangana,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+1,7,RaisingSuperstars,Education,Middle,Haryana,100.0,2.0,5000.0,1,1.0,100.0,4.0,2500.0,2.0
+1,7,Torch-it,Education,Middle,Gujarat,75.0,1.0,7500.0,1,0.0,0.0,0.0,0.0,0.0
+1,7,Kavach,Education,Young,Haryana,5.0,10.0,50.0,1,1.0,5.0,10.0,50.0,2.0
+1,7,LaKheerDeli,Food,Middle,Maharashtra,50.0,7.5,667.0,1,0.0,0.0,0.0,0.0,0.0
+1,8,BeyondSnack,Food,Middle,Kerala,50.0,2.5,2000.0,1,1.0,50.0,2.5,2000.0,2.0
+1,8,VivalyfInnovations,Medical/Health,Young,Telangana,56.0,7.5,747.0,1,1.0,56.0,33.33,168.0,2.0
+1,8,MotionBreeze,Vehicles/Electrical Vehicles,Middle,Gujarat,30.0,3.0,1000.0,1,1.0,30.0,6.0,500.0,1.0
+1,9,Altor,Manufacturing,Young,West Bengal,50.0,5.0,1000.0,1,1.0,50.0,7.0,714.0,2.0
+1,9,Ariro,Manufacturing,Young,Tamil Nadu,50.0,2.5,2000.0,1,1.0,50.0,10.0,500.0,2.0
+1,9,KabiraHandmad,Food,Middle,Rajasthan,100.0,5.0,2000.0,1,0.0,0.0,0.0,0.0,0.0
+1,10,Nuutjob,Beauty/Fashion,Young,Gujarat,25.0,5.0,500.0,1,1.0,25.0,20.0,125.0,3.0
+1,10,Meatyour,Food,Middle,Maharashtra,30.0,5.0,600.0,1,1.0,30.0,20.0,150.0,3.0
+1,10,EventBeep,Education,Young,Maharashtra,30.0,2.0,1500.0,1,1.0,30.0,3.0,1000.0,3.0
+1,11,Gopal's56,Food,Middle,Delhi,30000.0,25.0,120000.0,0,0.0,0.0,0.0,0.0,0.0
+1,11,ARRCOATSurfaceTextures,Manufacturing,Middle,Delhi,50.0,5.0,1000.0,1,1.0,50.0,15.0,333.0,1.0
+1,11,Farda,Beauty/Fashion,Young,Maharashtra,30.0,10.0,300.0,1,1.0,30.0,20.0,150.0,2.0
+1,12,Auli,Beauty/Fashion,Middle,West Bengal,75.0,4.0,1875.0,1,1.0,75.0,15.0,500.0,1.0
+1,12,SweeDesi,Food,Middle,Maharashtra,40.0,3.0,1333.0,0,0.0,0.0,0.0,0.0,0.0
+1,12,LOKA,Technology/Software,Young,Delhi,40.0,5.0,800.0,1,1.0,40.0,24.0,167.0,3.0
+1,13,Annie,Education,Young,Karnataka,30.0,0.5,6000.0,1,1.0,105.0,3.0,3500.0,3.0
+1,13,Carragreen,Manufacturing,Middle,Madhya Pradesh,50.0,10.0,500.0,1,1.0,50.0,20.0,250.0,2.0
+1,13,TheYarnBazaar,Manufacturing,Middle,Maharashtra,50.0,2.0,2500.0,1,1.0,100.0,10.0,1000.0,4.0
+1,14,TheRenalProject,Medical/Health,Middle,Maharashtra,100.0,3.0,3333.0,1,1.0,100.0,6.0,1667.0,2.0
+1,14,MorrikoPureFoods,Food,Middle,Gujarat,100.0,3.0,3333.0,1,0.0,0.0,0.0,0.0,0.0
+1,14,GoodGoodPiggy,Technology/Software,Young,Delhi,45.0,5.0,900.0,0,0.0,0.0,0.0,0.0,0.0
+1,15,HammerLifestyle,Electronics,Young,Haryana,30.0,3.0,1000.0,1,1.0,100.0,40.0,250.0,1.0
+1,15,PNT,Technology/Software,Young,Maharashtra,50.0,4.0,1250.0,1,1.0,25.0,25.0,100.0,1.0
+1,15,Cocofit,Food,Middle,Telangana,5e-05,5.0,0.0,1,1.0,5e-05,5.0,0.0,3.0
+1,16,BambooIndia,Manufacturing,Middle,Maharashtra,80.0,4.0,2000.0,1,1.0,50.0,3.5,1429.0,2.0
+1,16,FlyingFur,Animal/Pets,Middle,Delhi,75.0,7.0,1071.0,0,0.0,0.0,0.0,0.0,0.0
+1,16,BeyondWater,Food,Young,West Bengal,75.0,4.0,1875.0,1,1.0,75.0,15.0,500.0,2.0
+1,16,Let'sTry,Food,Middle,Delhi,45.0,2.0,2250.0,1,1.0,45.0,12.0,375.0,2.0
+1,17,FindYourKicksIndia,Beauty/Fashion,Young,Punjab,50.0,10.0,500.0,1,1.0,50.0,25.0,200.0,5.0
+1,17,AasVidyalaya,Education,Middle,Maharashtra,150.0,3.0,5000.0,1,1.0,150.0,15.0,1000.0,3.0
+1,17,Outbox,Services,Young,West Bengal,50.0,5.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+1,17,RoadBounce,Technology/Software,Middle,Maharashtra,80.0,10.0,800.0,1,1.0,80.0,20.0,400.0,1.0
+1,18,Mommy'sKitchen,Food,Middle,Maharashtra,90.0,3.0,3000.0,0,0.0,0.0,0.0,0.0,0.0
+1,18,IndiaHempandCo,Food,Middle,Karnataka,50.0,4.0,1250.0,1,0.0,0.0,0.0,0.0,0.0
+1,18,Otua,Vehicles/Electrical Vehicles,Middle,Haryana,100.0,1.0,10000.0,1,1.0,1.0,1.0,100.0,1.0
+1,18,Anthyesti,Services,Middle,Karnataka,50.0,2.5,2000.0,0,0.0,0.0,0.0,0.0,0.0
+1,19,Ethik,Manufacturing,Middle,Karnataka,15.0,5.0,300.0,0,0.0,0.0,0.0,0.0,0.0
+1,19,WeSTOCK,Animal/Pets,Middle,Kerala,50.0,5.0,1000.0,1,1.0,60.0,10.0,600.0,4.0
+1,19,KetoIndia,Food,Young,Delhi,150.0,1.25,12000.0,1,0.0,0.0,0.0,0.0,0.0
+1,19,Magiclock,Hardware,Middle,Maharashtra,120.0,8.0,1500.0,0,0.0,0.0,0.0,0.0,0.0
+1,20,TheStatePlate,Food,Young,"Karnataka,West Bengal",65.0,2.0,3250.0,1,1.0,40.0,3.0,1333.0,1.0
+1,20,Bakarmax,Technology/Software,Young,Delhi,35.0,5.0,700.0,0,0.0,0.0,0.0,0.0,0.0
+1,20,INACAN,Food,Middle,Maharashtra,50.0,2.0,2500.0,1,1.0,100.0,10.0,1000.0,5.0
+1,21,Get-A-Whey,Food,Middle,Maharashtra,100.0,8.0,1250.0,1,1.0,100.0,15.0,667.0,3.0
+1,21,Sid07Designs,Hardware,Young,Jammu & Kashmir,47.0,10.0,470.0,1,1.0,25.0,75.0,33.0,1.0
+1,21,TheQuirkyNaari,Beauty/Fashion,Young,Uttar Pradesh,35.0,5.0,700.0,1,1.0,35.0,24.0,146.0,2.0
+1,22,HairOriginals,Beauty/Fashion,Middle,Haryana,60.0,2.0,3000.0,1,1.0,60.0,4.0,1500.0,3.0
+1,22,Poo-de-Cologne,Beauty/Fashion,Middle,Maharashtra,75.0,5.0,1500.0,0,0.0,0.0,0.0,0.0,0.0
+1,22,Moonshine,Food,Middle,Maharashtra,80.0,0.5,16000.0,1,0.0,0.0,0.0,0.0,0.0
+1,22,Falhari,Food,Middle,Haryana,50.0,2.0,2500.0,1,0.0,0.0,0.0,0.0,0.0
+1,23,NamhyaFoods,Food,Young,Jammu & Kashmir,100.0,5.0,2000.0,1,1.0,50.0,10.0,500.0,1.0
+1,23,UrbanMonkey,Beauty/Fashion,Young,Maharashtra,100.0,1.0,10000.0,1,0.0,0.0,0.0,0.0,0.0
+1,23,GuardianGears,Manufacturing,Middle,Telangana,30.0,5.0,600.0,1,0.0,0.0,0.0,0.0,0.0
+1,23,ModernMyth,Beauty/Fashion,Young,Delhi,75.0,5.0,1500.0,0,0.0,0.0,0.0,0.0,0.0
+1,24,TheSassBar,Beauty/Fashion,Young,Maharashtra,40.0,8.0,500.0,1,1.0,50.0,35.0,143.0,2.0
+1,24,KGAgrotech,Agriculture,Young,Maharashtra,30.0,10.0,300.0,1,1.0,10.0,40.0,25.0,1.0
+1,24,NuskhaKitchen,Food,Middle,Rajasthan,20.0,10.0,200.0,0,0.0,0.0,0.0,0.0,0.0
+1,25,PawsIndia,Animal/Pets,Young,Maharashtra,50.0,4.0,1250.0,1,1.0,50.0,15.0,333.0,1.0
+1,25,SunfoxTechnologies,Medical/Health,Young,Uttarakhand,100.0,2.0,5000.0,1,1.0,100.0,6.0,1667.0,5.0
+1,25,Alpino,Food,Young,Gujarat,150.0,2.0,7500.0,1,0.0,0.0,0.0,0.0,0.0
+1,26,IsakFragrances,Beauty/Fashion,Young,Uttar Pradesh,50.0,8.0,625.0,1,1.0,50.0,50.0,100.0,1.0
+1,26,JulaaAutomation,Manufacturing,Middle,Gujarat,50.0,10.0,500.0,0,0.0,0.0,0.0,0.0,0.0
+1,26,RarePlanet,Manufacturing,Middle,West Bengal,65.0,1.0,6500.0,1,1.0,65.0,3.0,2167.0,1.0
+1,27,ThekaCoffee,Food,Young,Gujarat,50.0,10.0,500.0,0,0.0,0.0,0.0,0.0,0.0
+1,27,WattTechnovations,Medical/Health,Young,Maharashtra,0.00101,2.0,0.0,1,1.0,0.00101,4.0,0.0,4.0
+1,27,AlisteTechnologies,Technology/Software,Young,Uttar Pradesh,60.0,5.0,1200.0,1,0.0,0.0,0.0,0.0,0.0
+1,27,InsuranceSamadhan,Services,Middle,Uttar Pradesh,100.0,1.0,10000.0,1,1.0,100.0,4.0,2500.0,1.0
+1,28,HumpyA2,Food,Middle,Maharashtra,75.0,4.0,1875.0,1,1.0,100.0,15.0,667.0,3.0
+1,28,KunafaWorld,Food,Young,Karnataka,90.0,5.0,1800.0,0,0.0,0.0,0.0,0.0,0.0
+1,28,GoldSafeSolutions,Manufacturing,Middle,Maharashtra,50.0,5.0,1000.0,1,1.0,50.0,30.0,167.0,3.0
+1,29,WakaoFoods,Food,Middle,Goa,75.0,5.0,1500.0,1,1.0,75.0,21.0,357.0,3.0
+1,29,PDDFalcon,Manufacturing,Young,Gujarat,75.0,3.0,2500.0,1,0.0,0.0,0.0,0.0,0.0
+1,29,PlayBoxTV,Services,Young,Maharashtra,100.0,3.5,2857.0,1,0.0,0.0,0.0,0.0,0.0
+1,30,Sippline,Manufacturing,Middle,Maharashtra,75.0,15.0,500.0,0,0.0,0.0,0.0,0.0,0.0
+1,30,KabaddiAdda,Sports,Middle,Karnataka,80.0,1.0,8000.0,1,1.0,80.0,6.0,1333.0,2.0
+1,30,ShadesofSpring,Services,Young,Karnataka,300.0,1.0,30000.0,0,0.0,0.0,0.0,0.0,0.0
+1,30,Scholify,Education,Middle,Karnataka,50.0,7.5,667.0,0,0.0,0.0,0.0,0.0,0.0
+1,31,Scrapshala,Manufacturing,Middle,Uttar Pradesh,50.0,10.0,500.0,0,0.0,0.0,0.0,0.0,0.0
+1,31,Sabjikothi,Manufacturing,Young,Bihar,60.0,2.5,2400.0,0,0.0,0.0,0.0,0.0,0.0
+1,31,AyuRythm,Medical/Health,Middle,Karnataka,75.0,2.0,3750.0,1,1.0,75.0,2.68,2799.0,1.0
+1,31,Astrix,Manufacturing,Middle,Tamil Nadu,75.0,3.0,2500.0,0,0.0,0.0,0.0,0.0,0.0
+1,32,TheaandSid,Services,Middle,Maharashtra,80.0,7.0,1143.0,0,0.0,0.0,0.0,0.0,0.0
+1,32,ExperentialEtc,Technology/Software,Middle,Maharashtra,200.0,4.0,5000.0,1,0.0,0.0,0.0,0.0,0.0
+1,32,GrowFitter,Technology/Software,Middle,Maharashtra,50.0,1.0,5000.0,1,1.0,50.0,2.0,2500.0,1.0
+1,32,C3Med-Tech,Medical/Health,Middle,Gujarat,35.0,6.0,583.0,1,0.0,0.0,0.0,0.0,0.0
+1,33,ColourMeMad-CMM,Beauty/Fashion,Middle,Maharashtra,40.0,10.0,400.0,1,1.0,40.0,25.0,160.0,1.0
+1,33,Mavi's,Food,Middle,Maharashtra,40.0,5.0,800.0,0,0.0,0.0,0.0,0.0,0.0
+1,33,TweekLabs,Sports,Middle,Delhi,40.0,2.0,2000.0,1,1.0,60.0,10.0,600.0,3.0
+1,33,Proxgy,Technology/Software,Middle,Delhi,35.0,1.0,3500.0,1,1.0,100.0,10.0,1000.0,2.0
+1,34,NomadFoodProject,Food,Young,"Delhi,Maharashtra",40.0,10.0,400.0,1,1.0,40.0,20.0,200.0,4.0
+1,34,TweeInOne,Beauty/Fashion,Young,Maharashtra,30.0,7.5,400.0,0,0.0,0.0,0.0,0.0,0.0
+1,34,GreenProtein,Food,Middle,Maharashtra,60.0,2.0,3000.0,1,0.0,0.0,0.0,0.0,0.0
+1,34,On2Cook,Food,Middle,Gujarat,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+1,35,JainShikanji,Food,Middle,Uttar Pradesh,40.0,8.0,500.0,1,1.0,40.0,30.0,133.0,4.0
+1,35,Woloo,Technology/Software,Middle,Maharashtra,50.0,4.0,1250.0,1,0.0,0.0,0.0,0.0,0.0
+1,35,ElcareIndia,Medical/Health,Middle,Maharashtra,100.0,2.5,4000.0,0,0.0,0.0,0.0,0.0,0.0
+1,36,SneaKare,Beauty/Fashion,Young,Delhi,20.0,5.0,400.0,1,1.0,21.0,12.0,175.0,3.0
+1,36,FrenchCrown,Beauty/Fashion,Middle,Gujarat,150.0,0.33,45455.0,1,0.0,0.0,0.0,0.0,0.0
+1,36,StoreMyGoods,Services,Middle,Uttar Pradesh,100.0,1.75,5714.0,1,1.0,50.0,4.0,1250.0,2.0
+1,36,Devnagri,Technology/Software,Middle,Delhi,100.0,1.0,10000.0,1,0.0,0.0,0.0,0.0,0.0
+2,1,Hoovu,Services,Young,Karnataka,80.0,1.0,8000.0,1,1.0,100.0,2.0,5000.0,2.0
+2,1,Dorji,Food,Young,West Bengal,30.0,5.0,600.0,1,1.0,30.0,15.0,200.0,3.0
+2,1,Recode,Beauty/Fashion,Middle,Punjab,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,2,VeryMuchIndian,Beauty/Fashion,Middle,Maharashtra,50.0,3.0,1667.0,1,1.0,50.0,10.0,500.0,2.0
+2,2,WatchoutWearables,Electronics,Young,Maharashtra,200.0,5.0,4000.0,1,1.0,100.0,10.0,1000.0,2.0
+2,2,SoupX,Food,Young,Delhi,75.0,6.0,1250.0,1,1.0,50.0,18.0,277.7777778,1.0
+2,3,ATMOSPHERE,Food,Young,Delhi,75.0,3.0,2500.0,1,0.0,0.0,0.0,0.0,0.0
+2,3,Stage,Entertainment,Young,"Haryana,Madhya Pradesh",300.0,1.0,30000.0,1,1.0,150.0,0.6,25000.0,3.0
+2,3,Girgit,Beauty/Fashion,Young,Maharashtra,20.0,10.0,200.0,1,1.0,20.0,20.0,100.0,1.0
+2,4,GearHeadMotors,Vehicles/Electrical Vehicles,Young,Telangana,75.0,2.0,3750.0,1,1.0,100.0,6.67,1499.250375,2.0
+2,4,PatilKaki,Food,Young,Maharashtra,40.0,2.5,1600.0,1,1.0,40.0,4.0,1000.0,2.0
+2,4,Brandsdaddy,Manufacturing,Middle,Maharashtra,70.0,5.0,1400.0,1,1.0,35.0,5.0,700.0,1.0
+2,5,Winston,Beauty/Fashion,Middle,Haryana,100.0,4.0,2500.0,1,1.0,100.0,10.0,1000.0,2.0
+2,5,Flatheads,Beauty/Fashion,Middle,Karnataka,75.0,3.0,2500.0,1,0.0,0.0,0.0,0.0,0.0
+2,5,OrganicSmokes,Beauty/Fashion,Middle,Delhi,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,6,TeaFit,Liquor/Beverages,Young,Maharashtra,50.0,3.0,1666.666667,1,1.0,50.0,8.0,625.0,4.0
+2,6,Haqdarshak,Services,Middle,Himachal Pradesh,100.0,0.5,20000.0,1,1.0,100.0,2.0,5000.0,3.0
+2,6,Bhaskar'sPuranpoliGhar,Food,Middle,Maharashtra,75.0,1.0,7500.0,0,0.0,0.0,0.0,0.0,0.0
+2,7,GunjanAppsStudios,Technology/Software,Middle,West Bengal,250.0,1.0,25000.0,0,0.0,0.0,0.0,0.0,0.0
+2,7,TheSimplySalad,Food,Young,Gujarat,30.0,10.0,300.0,1,1.0,30.0,10.0,300.0,2.0
+2,7,AyuSynk,Medical/Health,Middle,Maharashtra,100.0,1.5,6666.666667,1,1.0,50.0,3.5,1428.571429,1.0
+2,8,AtypicalAdvantage,Technology/Software,Middle,Jharkhand,30.0,1.0,3000.0,1,1.0,30.0,3.0,1000.0,2.0
+2,8,HouseOfChikankari,Beauty/Fashion,Middle,Delhi,75.0,1.0,7500.0,1,1.0,75.0,3.75,2000.0,2.0
+2,8,MagicOfMemories,Beauty/Fashion,Middle,Delhi,25.0,5.0,500.0,0,0.0,0.0,0.0,0.0,0.0
+2,9,Paradyes,Beauty/Fashion,Young,Gujarat,65.0,1.0,6500.0,1,1.0,65.0,2.0,3250.0,2.0
+2,9,Nestroots,Furnishing/Household,Middle,Delhi,50.0,1.0,5000.0,1,1.0,50.0,2.0,2500.0,1.0
+2,10,Zillionaire,Beauty/Fashion,Young,Rajasthan,50.0,3.3,1515.151515,1,1.0,100.0,10.0,1000.0,1.0
+2,10,Credmate,Technology/Software,Middle,Punjab,50.0,5.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+2,10,Freebowler,Sports,Middle,Karnataka,75.0,7.5,1000.0,1,1.0,25.0,7.5,333.3333333,1.0
+2,11,ABCSports&Fitness,Sports,Middle,Maharashtra,40.0,2.0,2000.0,1,1.0,40.0,10.0,400.0,1.0
+2,11,Primebook,Technology/Software,Middle,Delhi,75.0,1.5,5000.0,1,1.0,75.0,3.0,2500.0,2.0
+2,11,DailyDump,Manufacturing,Middle,Karnataka,80.0,4.0,2000.0,1,1.0,30.0,4.0,750.0,1.0
+2,12,GharSoaps,Beauty/Fashion,Middle,Maharashtra,60.0,2.0,3000.0,1,1.0,60.0,4.0,1500.0,1.0
+2,12,Janitri,Medical/Health,Middle,Rajasthan,100.0,2.5,4000.0,1,1.0,100.0,2.5,4000.0,1.0
+2,12,JaipurWatchCompany,Manufacturing,Middle,Rajasthan,50.0,2.0,2500.0,0,0.0,0.0,0.0,0.0,0.0
+2,13,InsideFPV,Manufacturing,Young,Gujarat,75.0,4.0,1875.0,1,1.0,75.0,15.0,500.0,4.0
+2,13,Angrakhaa,Beauty/Fashion,Young,Delhi,40.0,5.0,800.0,1,1.0,40.0,20.0,200.0,1.0
+2,13,Diabexy,Food,Middle,Haryana,150.0,1.0,15000.0,1,0.0,0.0,0.0,0.0,0.0
+2,14,Kyari,Manufacturing,Young,Uttar Pradesh,51.0,1.0,5100.0,1,1.0,51.0,6.0,850.0,2.0
+2,14,MoppFoods,Food,Middle,Delhi,75.0,2.25,3333.333333,1,1.0,75.0,5.0,1500.0,1.0
+2,14,Econiture,Furnishing/Household,Middle,Maharashtra,50.0,8.0,625.0,0,0.0,0.0,0.0,0.0,0.0
+2,15,Dobiee,Food,Middle,Maharashtra,72.0,2.0,3600.0,1,1.0,72.0,6.5,1107.692308,1.0
+2,15,FastBeetle,Services,Young,Jammu & Kashmir,90.0,3.0,3000.0,1,1.0,90.0,7.5,1200.0,2.0
+2,15,Pflow,Medical/Health,Middle,Maharashtra,60.0,1.0,6000.0,1,1.0,60.0,6.0,1000.0,2.0
+2,16,VSMani,Food,Middle,Karnataka,60.0,1.5,4000.0,1,1.0,19.0,1.0,1900.0,1.0
+2,16,Sepal,Manufacturing,Middle,Telangana,50.0,1.0,5000.0,1,1.0,50.0,2.0,2500.0,1.0
+2,16,Solinas,Services,Middle,Tamil Nadu,90.0,2.0,4500.0,1,1.0,90.0,3.0,3000.0,2.0
+2,17,AvimeeHerbal,Beauty/Fashion,Middle,Gujarat,280.0,0.5,56000.0,1,0.0,0.0,0.0,0.0,0.0
+2,17,eyenic,Beauty/Fashion,Middle,Delhi,75.0,6.0,1250.0,0,0.0,0.0,0.0,0.0,0.0
+2,17,ekatra,Furnishing/Household,Middle,Rajasthan,40.0,10.0,400.0,1,1.0,20.0,20.0,100.0,2.0
+2,18,Raasa,Food,Middle,Delhi,50.0,5.0,1000.0,1,1.0,50.0,25.0,200.0,1.0
+2,18,NeoMotion,Manufacturing,Middle,Tamil Nadu,100.0,1.0,10000.0,1,1.0,100.0,1.0,10000.0,1.0
+2,18,licksters,Food,Middle,Maharashtra,50.0,5.0,1000.0,1,1.0,25.0,5.0,500.0,1.0
+2,18,Sayonara,Beauty/Fashion,Middle,West Bengal,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,19,PMV,Vehicles/Electrical Vehicles,Middle,Maharashtra,100.0,1.0,10000.0,1,0.0,0.0,0.0,0.0,0.0
+2,19,SpiceStory,Food,Middle,Maharashtra,70.0,2.0,3500.0,1,1.0,70.0,5.0,1400.0,1.0
+2,19,Bullspree,Technology/Software,Middle,Gujarat,75.0,1.5,5000.0,1,1.0,75.0,2.86,2622.377622,2.0
+2,20,Snitch,Beauty/Fashion,Middle,Karnataka,150.0,0.5,30000.0,1,1.0,150.0,1.5,10000.0,5.0
+2,20,Portl,Services,Middle,Telangana,150.0,1.0,15000.0,1,1.0,150.0,2.5,6000.0,3.0
+2,20,FatToSlim,Beauty/Fashion,Middle,Karnataka,20.0,1.0,2000.0,0,0.0,0.0,0.0,0.0,0.0
+2,21,CheeseCake&Co.,Food,Middle,Delhi,100.0,2.0,5000.0,1,0.0,0.0,0.0,0.0,0.0
+2,21,Dabble,Manufacturing,Middle,Karnataka,50.0,10.0,500.0,1,1.0,15.0,10.0,150.0,1.0
+2,21,CloudTailor,Services,Middle,"Karnataka,Telangana",100.0,1.4,7142.857143,0,0.0,0.0,0.0,0.0,0.0
+2,21,BeUnic,Services,Middle,Uttar Pradesh,100.0,10.0,1000.0,1,0.0,0.0,0.0,0.0,0.0
+2,22,Broomees,Services,Middle,Delhi,80.0,2.0,4000.0,1,1.0,100.0,3.0,3333.333333,3.0
+2,22,Ravel,Beauty/Fashion,Middle,Maharashtra,75.0,2.5,3000.0,1,1.0,75.0,10.0,750.0,1.0
+2,22,HoneyVeda,Food,Middle,Gujarat,75.0,7.5,1000.0,1,1.0,50.0,20.0,250.0,2.0
+2,23,PadCare,Manufacturing,Young,Maharashtra,50.0,2.0,2500.0,1,1.0,100.0,4.0,2500.0,4.0
+2,23,SwadeshiBlessings,Furnishing/Household,Middle,Rajasthan,50.0,5.0,1000.0,1,1.0,25.0,5.0,500.0,2.0
+2,23,OLL,Technology/Software,Young,Maharashtra,30.0,2.0,1500.0,1,1.0,30.0,5.0,600.0,2.0
+2,23,Febris,Medical/Health,Middle,Punjab,100.0,2.5,4000.0,0,0.0,0.0,0.0,0.0,0.0
+2,24,Geeani,Vehicles/Electrical Vehicles,Middle,Gujarat,75.0,7.5,1000.0,1,1.0,100.0,10.0,1000.0,3.0
+2,24,Amore,Food,Middle,"Telangana,Maharashtra",75.0,4.0,1875.0,1,1.0,75.0,7.5,1000.0,1.0
+2,24,LeafyAffair,Beauty/Fashion,Middle,Karnataka,50.0,2.5,2000.0,0,0.0,0.0,0.0,0.0,0.0
+2,25,ScrapUncle,Services,Young,Delhi,60.0,3.0,2000.0,1,1.0,60.0,5.0,1200.0,1.0
+2,25,SharmaJiKiAata,Food,Middle,Maharashtra,40.0,10.0,400.0,1,1.0,40.0,20.0,200.0,1.0
+2,25,Manetain,Beauty/Fashion,Young,"Kerala,Maharashtra",75.0,2.5,3000.0,1,1.0,75.0,10.0,750.0,1.0
+2,26,GavinParis,Beauty/Fashion,Young,West Bengal,50.0,5.0,1000.0,1,0.0,0.0,0.0,0.0,0.0
+2,26,UnStop,Technology/Software,Middle,Delhi,100.0,1.0,10000.0,1,1.0,200.0,4.0,5000.0,4.0
+2,26,BlueTea,Food,Middle,"Haryana,West Bengal",75.0,1.0,7500.0,1,1.0,50.0,3.0,1666.666667,1.0
+2,27,TheGreenSnack,Food,Middle,Maharashtra,100.0,2.0,5000.0,1,1.0,100.0,8.0,1250.0,1.0
+2,27,HobbyIndia,Furnishing/Household,Young,Gujarat,50.0,3.0,1666.666667,1,0.0,0.0,0.0,0.0,0.0
+2,27,Flhexible,Furnishing/Household,Middle,Rajasthan,50.0,7.5,666.6666667,0,0.0,0.0,0.0,0.0,0.0
+2,27,UpThrust,Sports,Young,Maharashtra,75.0,3.0,2500.0,0,0.0,0.0,0.0,0.0,0.0
+2,28,Zoff,Food,Middle,Chhattisgarh,100.0,0.5,20000.0,1,1.0,100.0,1.25,8000.0,1.0
+2,28,DesiToys,Manufacturing,Middle,Maharashtra,50.0,3.0,1666.666667,1,0.0,0.0,0.0,0.0,0.0
+2,28,CloudWorx,Technology/Software,Middle,Karnataka,40.0,2.0,2000.0,1,1.0,40.0,3.2,1250.0,2.0
+2,29,Mahantam,Manufacturing,Young,Gujarat,30.0,10.0,300.0,1,1.0,30.0,20.0,150.0,5.0
+2,29,MindPeers,Medical/Health,Middle,Delhi,53.0,1.0,5300.0,1,1.0,106.0,2.0,5300.0,4.0
+2,29,Barosi,Food,Middle,Haryana,50.0,2.0,2500.0,0,0.0,0.0,0.0,0.0,0.0
+2,30,Daryaganj,Food,Middle,Delhi,90.0,0.5,18000.0,1,1.0,90.0,1.0,9000.0,1.0
+2,30,DhruvVidyut,Vehicles/Electrical Vehicles,Middle,Delhi,0.0,0.5,0.0,1,1.0,0.0,0.5,0.0,3.0
+2,30,CELLBELL,Furnishing/Household,Middle,Maharashtra,90.0,1.5,6000.0,0,0.0,0.0,0.0,0.0,0.0
+2,31,Tipayi,Manufacturing,Young,Maharashtra,50.0,10.0,500.0,1,0.0,0.0,0.0,0.0,0.0
+2,31,DigiQure,Medical/Health,Middle,Madhya Pradesh,40.0,4.0,1000.0,1,1.0,40.0,10.0,400.0,1.0
+2,31,Nirmalaya,Manufacturing,Middle,Delhi,60.0,1.5,4000.0,0,0.0,0.0,0.0,0.0,0.0
+2,32,Pabiben,Beauty/Fashion,Middle,Gujarat,50.0,5.0,1000.0,1,1.0,10.0,5.0,200.0,1.0
+2,32,Homestrap,Furnishing/Household,Middle,Madhya Pradesh,70.0,1.0,7000.0,1,1.0,50.0,7.0,714.2857143,1.0
+2,32,uBreathe,Manufacturing,Middle,Haryana,150.0,7.5,2000.0,1,1.0,50.0,5.0,1000.0,1.0
+2,32,Deyor,Technology/Software,Middle,Haryana,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,33,iMumz,Medical/Health,Middle,Karnataka,70.0,1.0,7000.0,1,1.0,10.0,1.0,1000.0,1.0
+2,33,TheHealthyBinge,Food,Middle,Maharashtra,50.0,5.0,1000.0,1,1.0,50.0,5.0,1000.0,2.0
+2,33,Freakins,Beauty/Fashion,Middle,Maharashtra,70.0,1.0,7000.0,1,1.0,50.0,2.5,2000.0,1.0
+2,34,Perfora,Furnishing/Household,Young,"Haryana,Maharashtra",80.0,1.0,8000.0,1,1.0,80.0,2.5,3200.0,3.0
+2,34,MidNightAngelsByPC,Beauty/Fashion,Middle,Haryana,75.0,6.0,1250.0,1,0.0,0.0,0.0,0.0,0.0
+2,34,CureSee,Medical/Health,Middle,Haryana,40.0,5.0,800.0,1,1.0,50.0,10.0,500.0,1.0
+2,35,MeduLance,Medical/Health,Middle,Delhi,200.0,1.0,20000.0,1,1.0,200.0,2.0,10000.0,3.0
+2,35,Cakelicious,Food,Middle,West Bengal,25.0,5.0,500.0,1,1.0,25.0,20.0,125.0,1.0
+2,35,Bowled.io,Sports,Middle,Maharashtra,80.0,1.0,8000.0,0,0.0,0.0,0.0,0.0,0.0
+2,35,Toyshine,Manufacturing,Middle,Punjab,125.0,0.5,25000.0,0,0.0,0.0,0.0,0.0,0.0
+2,36,neuphony,Medical/Health,Young,Uttar Pradesh,100.0,2.0,5000.0,1,1.0,100.0,5.4,1851.851852,2.0
+2,36,Amrutam,Food,Middle,Madhya Pradesh,50.0,2.0,2500.0,0,0.0,0.0,0.0,0.0,0.0
+2,36,HoloKitab,Technology/Software,Middle,Punjab,45.0,10.0,450.0,1,1.0,45.0,25.0,180.0,1.0
+2,37,Zoe,Food,Middle,Haryana,75.0,5.0,1500.0,0,0.0,0.0,0.0,0.0,0.0
+2,37,Hornback,Vehicles/Electrical Vehicles,Middle,Telangana,50.0,1.0,5000.0,1,1.0,50.0,2.5,2000.0,1.0
+2,37,Malaki,Liquor/Beverages,Middle,Maharashtra,50.0,1.0,5000.0,1,1.0,50.0,3.0,1666.666667,2.0
+2,37,nanoclean,Manufacturing,Middle,Rajasthan,80.0,2.0,4000.0,0,0.0,0.0,0.0,0.0,0.0
+2,38,DesmondJi,Liquor/Beverages,Middle,Goa,100.0,1.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,38,Cremeitalia,Food,Middle,Maharashtra,90.0,1.5,6000.0,0,0.0,0.0,0.0,0.0,0.0
+2,38,nawgati,Services,Young,Uttar Pradesh,67.0,2.0,3350.0,1,1.0,67.0,3.0,2233.333333,2.0
+2,38,Swytchd,Vehicles/Electrical Vehicles,Middle,Karnataka,50.0,3.0,1666.666667,0,0.0,0.0,0.0,0.0,0.0
+2,39,GladFul,Food,Middle,Rajasthan,50.0,2.0,2500.0,1,1.0,50.0,3.5,1428.571429,3.0
+2,39,Pharmallama,Medical/Health,Middle,Karnataka,100.0,1.5,6666.666667,1,1.0,200.0,5.0,4000.0,5.0
+2,39,CraveRajaFoods,Food,Middle,West Bengal,65.0,3.0,2166.666667,0,0.0,0.0,0.0,0.0,0.0
+2,39,VAPerfume,Furnishing/Household,Middle,Maharashtra,100.0,10.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+2,40,Hood,Technology/Software,Middle,Haryana,120.0,0.2,60000.0,1,1.0,60.0,0.54,11111.11111,2.0
+2,40,TwistingScoops,Food,Young,Delhi,100.0,2.5,4000.0,1,0.0,0.0,0.0,0.0,0.0
+2,40,GROWiT,Agriculture,Middle,Gujarat,100.0,1.0,10000.0,1,1.0,50.0,1.0,5000.0,2.0
+2,41,Makino,Food,Young,Gujarat,200.0,2.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,41,Trunome,Medical/Health,Middle,Tamil Nadu,150.0,1.0,15000.0,1,1.0,150.0,2.0,7500.0,4.0
+2,41,Wol3D,Manufacturing,Middle,Maharashtra,150.0,1.0,15000.0,1,1.0,80.0,2.0,4000.0,1.0
+2,41,What'sUpWellness,Food,Middle,West Bengal,50.0,3.0,1666.666667,1,1.0,60.0,4.76,1260.504202,3.0
+2,42,ProostBeer,Liquor/Beverages,Middle,Delhi,100.0,0.75,13333.33333,0,0.0,0.0,0.0,0.0,0.0
+2,42,DrCubes,Liquor/Beverages,Middle,Karnataka,80.0,15.0,533.3333333,0,0.0,0.0,0.0,0.0,0.0
+2,42,MetroRide,Vehicles/Electrical Vehicles,Middle,Karnataka,75.0,1.0,7500.0,0,0.0,0.0,0.0,0.0,0.0
+2,42,Conker,Technology/Software,Middle,Karnataka,40.0,1.0,4000.0,0,0.0,0.0,0.0,0.0,0.0
+2,43,WTF,Food,Middle,West Bengal,75.0,5.0,1500.0,0,0.0,0.0,0.0,0.0,0.0
+2,43,funngro,Technology/Software,Middle,Maharashtra,50.0,1.25,4000.0,1,1.0,50.0,4.16,1201.923077,2.0
+2,43,Aadvik,Food,Middle,Delhi,60.0,1.5,4000.0,1,1.0,15.0,1.5,1000.0,1.0
+2,43,oyehappy,Services,Middle,Telangana,50.0,1.0,5000.0,0,0.0,0.0,0.0,0.0,0.0
+2,44,HealthyMaster,Food,Middle,Karnataka,50.0,2.0,2500.0,1,1.0,50.0,6.5,769.2307692,1.0
+2,44,Kitsons,Furnishing/Household,Middle,Telangana,1000.0,10.0,10000.0,0,0.0,0.0,0.0,0.0,0.0
+2,44,LondonBubble,Food,Middle,Maharashtra,75.0,5.0,1500.0,1,1.0,75.0,15.0,500.0,1.0
+2,44,WaggyZone,Animal/Pets,Middle,Maharashtra,50.0,5.0,1000.0,0,0.0,0.0,0.0,0.0,0.0
+2,45,NutriCook,Food,Middle,"Karnataka,Andhra Pradesh",100.0,2.0,5000.0,1,1.0,50.0,10.0,500.0,1.0
+2,45,Subhag,Medical/Health,Middle,"Jharkhand,Chhattisgarh",50.0,1.0,5000.0,1,1.0,20.0,1.0,2000.0,1.0
+2,45,SinghStyled,Beauty/Fashion,Middle,Maharashtra,50.0,5.0,1000.0,1,1.0,50.0,10.0,500.0,1.0
+2,46,ZSportsTech,Sports,Middle,Maharashtra,60.0,2.0,3000.0,0,0.0,0.0,0.0,0.0,0.0
+2,46,ThePlatedProject,Services,Middle,Maharashtra,75.0,2.0,3750.0,1,1.0,75.0,3.75,2000.0,3.0
+2,46,VsnapU,Services,Middle,Goa,50.0,1.5,3333.333333,0,0.0,0.0,0.0,0.0,0.0
+2,46,TheHealthyFactory,Food,Young,Maharashtra,75.0,2.1,3571.428571,0,0.0,0.0,0.0,0.0,0.0
+2,47,Brevistay,Services,Young,"Uttarakhand,Uttar Pradesh",100.0,1.66,6024.096386,0,0.0,0.0,0.0,0.0,0.0
+2,47,SoulUp,Services,Middle,Karnataka,50.0,3.0,1666.666667,1,1.0,50.0,5.0,1000.0,1.0
+2,47,TheBigBookBox - ChapterOneBooks,Furnishing/Household,Middle,Bihar,50.0,8.0,625.0,0,0.0,0.0,0.0,0.0,0.0
+2,48,Rubans,Beauty/Fashion,Middle,Karnataka,150.0,0.5,30000.0,1,1.0,100.0,1.0,10000.0,3.0
+2,48,SameNotification,Technology/Software,Middle,"Gujarat,Uttar Pradesh",25.0,15.0,166.6666667,0,0.0,0.0,0.0,0.0,0.0
+2,48,BottomLineSprays,Furnishing/Household,Middle,Gujarat,35.0,5.0,700.0,0,0.0,0.0,0.0,0.0,0.0
+2,48,LilGoodness,Food,Middle,Karnataka,100.0,1.0,10000.0,1,1.0,50.0,1.0,5000.0,1.0
+2,49,ForeverModest,Beauty/Fashion,Young,Maharashtra,20.0,10.0,200.0,1,1.0,20.0,20.0,100.0,4.0
+2,49,Sahayatha,Medical/Health,Young,Tamil Nadu,100.0,10.0,1000.0,1,1.0,100.0,10.0,1000.0,5.0
+2,49,WickedGud,Food,Middle,Maharashtra,50.0,1.0,5000.0,0,0.0,0.0,0.0,0.0,0.0
+2,49,maisha,Beauty/Fashion,Middle,Gujarat,75.0,3.0,2500.0,1,1.0,10.0,1.0,1000.0,1.0
+2,50,NishHair,Beauty/Fashion,Middle,Maharashtra,100.0,2.0,5000.0,1,1.0,100.0,2.0,5000.0,1.0
+2,50,MYBYK,Vehicles/Electrical Vehicles,Middle,Gujarat,200.0,1.0,20000.0,0,0.0,0.0,0.0,0.0,0.0
+2,51,GODESi,Food,Middle,Karnataka,90.0,0.5,18000.0,1,0.0,0.0,0.0,0.0,0.0
+2,51,TAC,Beauty/Fashion,Middle,Maharashtra,150.0,0.5,30000.0,1,1.0,81.0,1.0,8100.0,2.0
+2,51,Naara-Aaba,Liquor/Beverages,Middle,Arunachal Pradesh,75.0,2.5,3000.0,1,1.0,50.0,5.0,1000.0,2.0
+2,51,StyloBug,Beauty/Fashion,Middle,Delhi,80.0,2.0,4000.0,1,1.0,80.0,10.0,800.0,1.0
